@@ -6,13 +6,13 @@ Saya seorang **Mahasiswa** di **[Universitas Muhammadiyah Sukabumi](https://ummi
 Saya mengambil jurusan Teknik Informatika\
 Saya senang dan tertarik dengan teknologi modern, saya juga suka dengan desian. Seperti UI/UX Design
 
-Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti [akunku](https://linktr.ee/anjas_ramdan) yaa
-
 - 🔭 I’m currently working on <a href="https://www.kamarpelajar.com/">Kamar Pelajar</a>
 - 🌱 I’m currently learning about frontend developer
 - ✨ I have a hobby of photography
 - 📫 How to reach me: anjasramdan123@gmail.com
 - ⚡ Fun fact: Will get old in time
+
+Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti [akunku](https://linktr.ee/anjas_ramdan) yaa
 
 <!-- ### Languages and Tools:
 
