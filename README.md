@@ -7,7 +7,7 @@ Saya mengambil jurusan Teknik Informatika\
 Saya senang dan tertarik dengan teknologi modern, saya juga suka dengan desian. Seperti UI/UX Design
 
 - 🔭 I’m currently working on <a href="https://www.kamarpelajar.com/">Kamar Pelajar</a>
-- 🌱 I’m currently learning about frontend developer
+- 🌱 I’m currently learning about UI/UX Design
 - ✨ I have a hobby of photography
 - 📫 How to reach me: anjasramdan123@gmail.com
 - ⚡ Fun fact: Will get old in time
